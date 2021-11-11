@@ -1,3 +1,3 @@
 ## Installation
 
-1 - Clone this repository. [docker-mysql-nginx](https://github.com/MateusLimaPorto/docker-mysql-nginx.git)
+1 - Clone this repository. [loadbalance-mysql-nginx](https://github.com/MateusLimaPorto/loadbalance-mysql-nginx.git)
